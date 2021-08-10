@@ -1,0 +1,46 @@
+{
+  "menus":[
+  {
+      "menu": "1",
+      "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/index.php",
+      "leading_icon": 58136,
+      "name": "Home"
+  },
+  {
+      "menu": "2",
+      "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/IndexController/pageunderconstruction",
+      "leading_icon": 58172,
+      "name": "About Us"
+  },
+  {
+    "menu": "3",
+    "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/index.php",
+    "leading_icon": 58524,
+    "name": "Recruitment"
+},
+{
+    "menu": "4",
+    "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/IndexController/pageunderconstruction",
+    "leading_icon": 60394,
+    "name": "Nomination"
+},
+{
+  "menu": "5",
+  "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/index.php",
+  "leading_icon": 983220,
+  "name": "Selection Post"
+},
+{
+  "menu": "6",
+  "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/IndexController/pageunderconstruction",
+  "leading_icon": 62363,
+  "name": "downloads"
+},
+{
+  "menu": "7",
+  "link": "https://rtionline.tn.gov.in/sscsr/sscsr_old/sscsr_new_temp/IndexController/pageunderconstruction",
+  "leading_icon": 61668,
+  "name": "RTI"
+}
+]
+}
